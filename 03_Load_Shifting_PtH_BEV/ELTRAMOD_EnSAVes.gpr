@@ -1,0 +1,1477 @@
+[PROJECT]
+
+[GDXDISP: map_pc Set 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: c Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ch_c Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ch_p Set 1]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_c Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=2
+PlaneRownr=-1
+
+[GDXDISP: char_p Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=2
+PlaneRownr=-1
+PlaneFilter1=p_inst
+
+[GDXDISP: char_tech Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=8
+PlaneRownr=-1
+
+[GDXDISP: f Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: map_pf Set 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: map_ptech Set 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: tech Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pr_f Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=1
+PlaneRownr=-1
+
+[GDXDISP: av_RES Par 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=7
+PlaneRownr=-1
+PlaneFilter1=CH
+
+[GDXDISP: dem Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: dem_heat Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: avail Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_f Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=2
+PlaneRownr=-1
+
+[GDXDISP: co_co2 Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=2
+PlaneRownr=-1
+
+[GDXDISP: co_v Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ntc Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_f Par 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_down Par 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: cc Alias 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ff Alias 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ntc_input Par 3]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=1
+PlaneRownr=-1
+
+[GDXDISP: conv Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_tech2 Par 3]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,3,2
+Decim=7
+PlaneRownr=-1
+PlaneFilter1=Reservoir
+
+[GDXDISP: an Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: res Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: res_in Par 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=DE
+Sorted=YYY
+PlaneFilter2=w_off
+
+[GDXDISP: ch_res Set 1]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_res Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: res_p Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+Sorted=YY
+
+[GDXDISP: psp Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_up Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=3
+PlaneRownr=-1
+
+[GDXDISP: co_down Par 1]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: first Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: C_ADD Var 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Upper
+
+[GDXDISP: p_av Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=8
+PlaneRownr=-1
+
+[GDXDISP: eta_p_add Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: exist Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: new Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: t Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ther Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: y Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p_exist Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+
+[RP:UNTITLED_1]
+1=
+
+[GDXDISP: co_v1 Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: co_v2 Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: DUMP_DEM Var 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: DUMP_GEN Var 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: G_P1 Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Level
+PlaneFilter2=plant080105_CCGT
+Sorted=YY
+
+[GDXDISP: Energy_balance Equ 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=1
+PlaneFilter1=Marginal
+
+[GDXDISP: G_P Var 2]
+PlaneDim=2
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Level
+PlaneFilter2=t2210
+Sorted=YY
+
+[GDXDISP: G_P2 Var 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Marginal
+PlaneFilter2=AL_Reservoir
+Sorted=YY
+
+[GDXDISP: PUMP Var 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: EXPORT Var 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=4,3,1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Level
+PlaneFilter2=t569
+Sorted=YYY
+
+[GDXDISP: Charge Var 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=1
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: target_function Equ 0]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: TOTAL_COSTS Var 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: pr_el Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: pr_el_p2g Par 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: INV_P2X Var 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: INV Var 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: i Par 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: cap_add Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=OCGT
+
+[GDXDISP: cap_new Par 2]
+PlaneDim=1
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=4
+PlaneFilter1=Lignite
+Sorted=YY
+
+[GDXDISP: cap_p2x Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+Sorted=YY
+
+[GDXDISP: map_appC Set 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: minimum_p2g Equ 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: res_dem Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=DE
+
+[GDXDISP: ch_app Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_app Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_dsm Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: co_dsm_opp Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: res_dem_max Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: C_P2X Var 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+Sorted=Y
+
+[GDXDISP: minimum_capacity Equ 1]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Lower
+
+[GDXDISP: pr_el_av Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[RP:ELTRAMOD_INPUT_171024]
+1=
+
+[GDXDISP: app Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: res_av Par 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=DE
+Sorted=YYY
+PlaneFilter2=w_off
+
+[RP:ELTRAMOD_INPUT_UBA]
+1=
+
+[RP:ELTRAMOD_INVEST_UBA]
+1=
+
+[RP:ELTRAMOD_MASTER_DE]
+1=
+
+[GDXDISP: p2g Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p2x Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[RP:COMP_INVEST_WEEK_V02]
+1=
+
+[RP:COMP_INVEST_WEEK_RL]
+1=
+
+[GDXDISP: tt Alias 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: n_o Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: t_opt Par 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_dev2 Par 3]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_dev Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: test Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: DSM_UP Var 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,1,2
+Decim=1
+PlaneRownr=-1
+PlaneFilter1=Upper
+
+[GDXDISP: p_dec Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=1
+PlaneRownr=-1
+PlaneFilter1=EL_OCOT
+
+[GDXDISP: test Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: eta_new Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=2
+PlaneRownr=-1
+
+[GDXDISP: ratio_capp_add Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: p2x_exist Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: dem_p2x Par 3]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: dev Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: map_appDev Set 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: reser Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: stor Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: last Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: dem_p2h Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_voll Par 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_dumpgen Par 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: co_curt Par 0]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ch_f Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ch_dev Set 1]
+PlaneDim=0
+RowDim=0
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p2h Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+[=
+
+[GDXDISP: P2H_OPT Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,3,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=p2h
+PlaneFilter2=Upper
+
+[GDXDISP: p2h_profile Par 3]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,3,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: p2h_inst Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: HSTOR_L Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Upper
+PlaneFilter2=hstor
+
+[GDXDISP: HSTOR_OUT Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Upper
+PlaneFilter2=hstor
+
+[RP:02_ELTRAMOD_RUN_EV_PTH_201112]
+1=
+
+[RP:00_ELTRAMOD_MASTER_EV_PTH_201112]
+1=
+
+[RP:03_ELTRAMOD_RESULTS_EV_PTH_201112]
+1=
+
+[GDXDISP: HSTOR_IN Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+PlaneFilter1=Marginal
+PlaneFilter2=hstor
+
+[GDXDISP: EV_GED Var 3]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=4,1,3,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: EV_L Var 3]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=4,1,3,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: hstor_inst Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_eta_out Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_eta_in Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_discharge_maxout_limit Equ 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_co_f Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_chargelev_start Equ 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p2h_eta Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: headers_ev Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: heat_balance Equ 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: hstor_charge_maxin_limit Equ 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: hstor_chargelev Equ 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_chargelev_ending Equ 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: hstor_chargelev_ini Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: hstor_chargelev_max Equ 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: LC_UP Var 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: LC_DOWN Var 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ev_data Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: ev_ed Par 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,3,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: EV_CHARGE Var 3]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=4,1,3,2
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: maximum_p2h Equ 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=0
+PlaneRownr=-1
+
+[GDXDISP: map_apphstor Set 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: map_apphstorC Set 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: p2h_profile Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=7
+PlaneRownr=-1
+
+[OPENWINDOW_1]
+MAXIM=0
+TOP=0
+LEFT=958
+HEIGHT=936
+WIDTH=958
+
+[RP:01_ELTRAMOD_INPUT_EV_PTH_201112]
+1=
+
+[RP:04_EV_201112]
+1=
+
+[RP:05_PTH_201112]
+1=
+
+[GDXDISP: ev_energy_balance Equ 3]
+PlaneDim=1
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=4,1,3,2
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: P2H_EL Var 2]
+PlaneDim=2
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=3,2,1
+Decim=1
+PlaneRownr=-1
+
+[GDXDISP: pr_el_av Par 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+SqTrail0=0
+Order=1,2
+Decim=0
+PlaneRownr=-1
+
+[RP:$CALL_GAMS_EV_PTH_201112]
+1=
+
+[RP:02_ELTRAMOD_RUN_EV_PTH_210225]
+1=
+
+[RP:03_ELTRAMOD_RESULTS_EV_PTH_210225]
+1=
+
+[RP:04_EV_210225]
+1=
+
+[RP:05_PTH_210225]
+1=
+
+[RP:01_ELTRAMOD_INPUT_EV_PTH_210225]
+1=
+
+[RP:00_ELTRAMOD_MASTER_EV_PTH_210225]
+1=
+
+[RP:01_ELTRAMOD_INPUT_EV_PTH_210218]
+1=
+
+[RP:00_ELTRAMOD_MASTER_EV_PTH_210218]
+1=
+
+[RP:02_ELTRAMOD_RUN_EV_PTH_210218]
+1=
+
+[RP:03_ELTRAMOD_RESULTS_EV_PTH_210218]
+1=
+
+[RP:04_EV_210218]
+1=
+
+[RP:05_PTH_210218]
+1=
+
+[GDXDISP: ch_apphstor Set 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: char_app Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[RP:06_PTG_MAC_V10]
+1=
+
+[RP:05_PTH_210302]
+1=
+
+[RP:04_EV_210302]
+1=
+
+[RP:03_ELTRAMOD_RESULTS_EV_PTH_210302]
+1=
+
+[RP:02_ELTRAMOD_RUN_EV_PTH_210302]
+1=
+
+[RP:01_ELTRAMOD_INPUT_EV_PTH_210302]
+1=
+
+[RP:00_ELTRAMOD_MASTER_EV_PTH_210302]
+1=
+
+[RP:$CALL_GAMS_EV_PTH]
+1=
+
+[RP:00_ELTRAMOD_MASTER_EV_PTH]
+1=
+
+[RP:01_ELTRAMOD_INPUT_EV_PTH]
+1=
+
+[RP:02_ELTRAMOD_RUN_EV_PTH]
+1=
+
+[RP:03_ELTRAMOD_RESULTS_EV_PTH]
+1=
+
+[RP:04_EV]
+1=
+
+[RP:05_PTH]
+1=
+
+[MRUFILES]
+1=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\05_PtH.gms
+2=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\04_EV.gms
+3=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\03_ELTRAMOD_results_EV_PtH.gms
+4=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\02_ELTRAMOD_run_EV_PtH.gms
+5=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\01_ELTRAMOD_input_EV_PtH.gms
+6=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\00_ELTRAMOD_master_EV_PtH.gms
+7=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\$call_gams_EV_PtH.gms
+8=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\00_ELTRAMOD_master_EV_PtH.lst
+9=C:\Users\SMisconel\OneDrive - Scientific Network South Tyrol\01_Dissertation_SM\04_Manuscript\05_Model_codes_GitHub\03_Load_shifting_PtH_BEV\01_Model_code\00_ELTRAMOD_master_EV_PtH_210302.gms
