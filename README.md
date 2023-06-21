@@ -9,11 +9,12 @@ Four model codes and data input can be found here on GitHub:
 - [02_Impact_DSM_Europe](/02_Impact_DSM_Europe)
   - Paper 6 - https://doi.org/10.1016/j.apenergy.2021.117326
 - [03_Load_Shifting_PtH_BEV](/03_Load_Shifting_PtH_BEV)
--   (Paper 3 - under review)
+  - Paper 3 - under review
+  - Paper 2 - with model-endogenous investments and out-commanding load shifting of PtH and BEV https://doi.org/10.1016/j.rser.2021.111785
 - [04_MAC_Curves](/04_MAC_Curves)
--   (Paper 4 - https://doi.org/10.1109/EEM54602.2022.9921046)
--   (Paper 7 - https://doi.org/10.1016/j.jclepro.2022.133173)
--   (Paper 8 - preprint http://dx.doi.org/10.2139/ssrn.4408610)
+  - Paper 4 - https://doi.org/10.1109/EEM54602.2022.9921046
+  - Paper 7 - https://doi.org/10.1016/j.jclepro.2022.133173
+  - Paper 8 - under review/preprint http://dx.doi.org/10.2139/ssrn.4408610
 
-Further information and links regarding the input data can be found in the dissertation's research articles and in the subfolders at GitHub.
+Further information and links regarding the input data can be found in the dissertation's research articles (Paper 2-8) and in the subfolders at GitHub.
 
