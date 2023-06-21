@@ -1,7 +1,7 @@
 # Assessing-the-value-of-flexibility-options
 
 This is the model and data repository of the cumulative dissertation of Steffi Misconel (TU Dresden, Germany).
-https://orcid.org/my-orcid?orcid=0000-0003-2005-4316
+- https://orcid.org/my-orcid?orcid=0000-0003-2005-4316
 
 Four model codes and data input can be found here on GitHub:
 
