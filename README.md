@@ -6,7 +6,7 @@ Four model codes and data input can be found here on GitHub:
 
 - [01_Impact_FO_Europe](/01_Impact_FO_Europe)
 -   (Paper 5 - https://doi.org/10.1007/978-3-030-60914-6_10)
-- 02_Impact_DSM_Europe
+- [02_Impact_DSM_Europe](/02_Impact_DSM_Europe)
 -   (Paper 6 - https://doi.org/10.1016/j.apenergy.2021.117326)
 - 03_Load_Shifting_PtH_BEV
 -   (Paper 3 - under review)
